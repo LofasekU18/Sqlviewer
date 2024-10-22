@@ -1,4 +1,5 @@
-﻿using SQLview.ViewModels;
+﻿using SQLview.View;
+using SQLview.ViewModels;
 using System.Diagnostics;
 using System.Text;
 using System.Windows;
@@ -22,6 +23,8 @@ namespace SQLview
         {
             InitializeComponent();
             DataContext = new SqlViewModel();
+            EditWindow editWindow = new EditWindow();
+            editWindow.Show();
         }
     }
 }
