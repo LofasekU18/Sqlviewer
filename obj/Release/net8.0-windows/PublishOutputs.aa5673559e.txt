@@ -1,5 +1,0 @@
-C:\Users\Lukáš\Desktop\Testik\SQLview.exe
-C:\Users\Lukáš\Desktop\Testik\SQLview.dll
-C:\Users\Lukáš\Desktop\Testik\SQLview.deps.json
-C:\Users\Lukáš\Desktop\Testik\SQLview.runtimeconfig.json
-C:\Users\Lukáš\Desktop\Testik\SQLview.pdb
