@@ -6,7 +6,9 @@
         xmlns:local="clr-namespace:SQLview"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize">
+   
     <Grid>
+        
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="0.05*"></ColumnDefinition>
             <ColumnDefinition Width="*"></ColumnDefinition>
@@ -20,10 +22,23 @@
         </Grid.RowDefinitions>
         <Border Grid.Column="0" Grid.ColumnSpan="1" Background="LightSkyBlue">
         </Border>
+        <Menu Grid.Row="0" Grid.Column="1">
+        
+        </Menu>
+        <ListView ItemsSource="{Binding ListOfSql}" Grid.Row="1" Grid.Column="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5">
+                        <TextBlock Text="{Binding Path=Name}"/>
+                        <TextBlock Text="{Binding Path=Sql}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListView>
         <StackPanel Grid.Row="1" Grid.Column="2">
             <Button Height="50px" Width="50px" Margin="30px">+</Button>
             <Button Height="50px" Width="50px" Margin="30px">-</Button>
-            <Button Height="50px" Width="50px" Margin="30px">Vykonej</Button>
+            <Button Height="50px" Width="50px" Margin="30px">Run</Button>
         </StackPanel>
     </Grid>
     

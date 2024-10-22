@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQLview")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af5fbbe04dcb3b12e27324d7eedd0a65bf7814b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQLview")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQLview")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

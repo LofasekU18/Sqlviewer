@@ -3,11 +3,9 @@ C:\Users\Lukáš\projects\Sqlviewer\SQLview\bin\Debug\net8.0-windows\SQLview.dep
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\bin\Debug\net8.0-windows\SQLview.runtimeconfig.json
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\bin\Debug\net8.0-windows\SQLview.dll
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\bin\Debug\net8.0-windows\SQLview.pdb
-C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\SQLview_MarkupCompile.cache
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\SQLview_MarkupCompile.lref
-C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\SQLview.g.resources
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\SQLview.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\SQLview.AssemblyInfoInputs.cache
@@ -18,3 +16,5 @@ C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\refint\SQLv
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\SQLview.pdb
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\SQLview.genruntimeconfig.cache
 C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\ref\SQLview.dll
+C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\Lukáš\projects\Sqlviewer\SQLview\obj\Debug\net8.0-windows\View\MainWindow.baml
